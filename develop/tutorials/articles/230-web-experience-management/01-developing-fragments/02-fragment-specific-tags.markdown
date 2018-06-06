@@ -68,7 +68,7 @@ have major negative effects on your layout.
 Images use the same `<lfr-editable>` tag as text, but with the `img` type, like 
 this:
     
-    <lfr-editable id="unique-id" type="img">
+    <lfr-editable id="unique-id" type="image">
        <img src="...">
     </lfr-editable>
 
